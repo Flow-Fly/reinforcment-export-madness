@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    margin: 2em;
+}
+
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
