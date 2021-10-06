@@ -20,7 +20,7 @@ function RenameMeWithF2() {
 }
 
 const title = document.createElement("h1");
-title.textContent = greetSomeone;
-container.append(title);
+title.textContent = greetSomeone + "Test";
+container.appendChild(title);
 
 console.log(test, b);
